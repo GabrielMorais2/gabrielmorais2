@@ -19,6 +19,10 @@
 
 <h1>GitHub Stats 📊</h1>
  
-<a href="https://github.com/gabrielmorais2/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielmorais2&show_icons=true&include_all_commits=true&theme=midnight-purple&hide_border=true" alt="Gabriel Moraes's GitHub stats" /></a>
-<a href="https://github.com/gabrielmorais2/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmorais2&theme=midnight-purple&layout=compact&hide_border=true&count_private=true" /></a>
+<a href="https://github.com/gabrielmorais2/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielmorais2&show_icons=true&include_all_commits=true&theme=midnight-purple&hide_border=true" alt="Gabriel Moraes's GitHub stats"/>
+</a>
+<a href="https://github.com/gabrielmorais2/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmorais2&theme=midnight-purple&layout=compact&hide_border=true&count_private=true" />
+</a>
 
