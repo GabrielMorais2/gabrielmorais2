@@ -2,7 +2,8 @@
 
 * I'm currently completing my Bachelors in Computer Science.
 * Learning Back End Development.
-* Can be working on Java, Python, Spring Boot, MySQL, AngularJS
+* Can be working on Java, Spring Boot, MySQL, AngularJS, Software Architecture (Clean Code, TDD, BDD, CI/CD), Microsserviços, API Rest.
+
 
 <div> 
   <a href = "mailto:moraisgabriel274@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
