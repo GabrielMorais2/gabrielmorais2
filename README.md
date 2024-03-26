@@ -1,9 +1,12 @@
 <h1 align="center">Oi 👋, Meu nome é Gabriel</a></h1>
 
-* Atualmente estou estudando um bacharelado em Ciências da Computação
-* Aprendendo desenvolvimento BackEnd
-* Posso trabalhar com Java, Spring Boot, MySQL, Software Architecture (Clean Code, TDD, BDD, CI/CD), Microsserviços, API Rest.
+Sou um desenvolvedor de software com experiência em Java, Python, C++, Java Script, HTML, CSS, Spring Boot, AWS, RabbitMQ, Kafka, Linux, microsserviços, Docker, CI/CD, Bancos de dados (NoSQL e SQL). 
 
+Recentemente, tenho me dedicado a aprimorar minhas habilidades em Terraform, Jenkins e Kubernetes para automatizar e escalar infraestruturas em nuvem, integrando práticas de desenvolvimento conciso.
+
+Também tenho experiência em administração de sistemas, tanto on-premise quanto em nuvem, incluindo administração de redes e ambientes virtualizados. 
+
+Busco expandir minha atuação para a área de DevOps, combinando minha proficiência técnica com metodologias ágeis como Scrum e Kanban para oferecer soluções eficientes e de alta qualidade.
 
 <div> 
   <a href = "mailto:moraisgabriel274@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
